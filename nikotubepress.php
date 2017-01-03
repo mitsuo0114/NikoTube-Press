@@ -1,6 +1,6 @@
 <?php 
  /* 
- Plugin Name: NikoTube Press
+ Plugin Name: nikotube-press
  Plugin URI: http://blog.uklab.jp/web/wordpress-youtube-nicovideo/
  Description: This plugin append video tag of Yourube and nikoniko video
  Author: uklab
